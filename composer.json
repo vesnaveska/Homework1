@@ -1,0 +1,15 @@
+{
+  "name": "alina/academy-homework-one",
+  "description": "Homework for the first lection",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alina",
+      "email": "vesnaveska@mail.ru"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/"]
+  }
+} 
